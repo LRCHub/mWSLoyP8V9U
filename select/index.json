@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "不法侵入",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-06T11:28:20.074931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不法侵入",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_不法侵入_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "不法侵入",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_不法侵入_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "不法侵入 - Intrusion",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_不法侵入_-_Intrusion_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "不法侵入 - Intrusion",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_不法侵入_-_Intrusion_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "不法侵入 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_不法侵入_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『不法侵入』MV (ZUTOMAYO – Intrusion)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_ずっと真夜中でいいのに。『不法侵入』MV_(ZUTOMAYO_–_Intrusion)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "不法侵入",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_不法侵入_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "不法侵入 / Intrusion",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_不法侵入___Intrusion_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不法侵入",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_不法侵入_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "不法侵入",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_不法侵入_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
